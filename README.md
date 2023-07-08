@@ -1,10 +1,10 @@
 # 基本情况
-参考链接：https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS106L/
-课程网站：http://web.stanford.edu/class/cs106l/
-课程视频：https://www.youtube.com/channel/UCSqr6y-eaQT_qZJVUm_4QxQ/playlists
-课程教材：http://web.stanford.edu/class/cs106l/full_course_reader.pdf
-Assignment1: WikiRacer：http://web.stanford.edu/class/cs106l/assignment1.html
-Assignment2: STL HashMap：http://web.stanford.edu/class/cs106l/assignment2.html
+参考链接：https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS106L/    
+课程网站：http://web.stanford.edu/class/cs106l/     
+课程视频：https://www.youtube.com/channel/UCSqr6y-eaQT_qZJVUm_4QxQ/playlists     
+课程教材：http://web.stanford.edu/class/cs106l/full_course_reader.pdf     
+Assignment1: WikiRacer：http://web.stanford.edu/class/cs106l/assignment1.html      
+Assignment2: STL HashMap：http://web.stanford.edu/class/cs106l/assignment2.html      
 
 
 # 学习小要点
